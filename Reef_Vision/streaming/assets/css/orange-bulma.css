@@ -8622,8 +8622,7 @@ padding: 30px;
 }
 .main-placeholder .placeholder-content img {
 display:block;
-max-width:230px;
-margin:0 auto 20px auto
+
 }
 .main-placeholder .placeholder-content .button-wrap {
     margin:20px 0
@@ -8655,4 +8654,7 @@ margin:0 auto 20px auto
 
 .error {
     color: red;
+}
+.svg-white {
+    filter: invert(1);
 }
